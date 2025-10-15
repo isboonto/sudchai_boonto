@@ -2,7 +2,7 @@
 title: "An Extended Weighted Exponential Distribution and Its Associated Regression Model,"
 collection: publications
 category: Journal 
-permalink: #"https://sjst.psu.ac.th/journal/46-1/7.pdf"
+permalink: #'https://sjst.psu.ac.th/journal/46-1/7.pdf'
 excerpt: #
 date: 2024
 venue: #
