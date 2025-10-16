@@ -28,7 +28,7 @@ author_profile: true
 [NJ1]	V. Sittiarttakorn, **S. Boonto**, “Hybrid Engine Model Using a Stirling Engine and a DC Motor,” Journal of the Japan Society of Applied Electromagnetics and Mechanics, Vol. 23, No. 3, pp. 563-566, 2015. [bib]
 
 ---
-<h3>Peer-Reviewd International Conference Papers</h3>
+<h3>Peer-Reviewed International Conference Papers</h3>
 
 
 [IC40]	S. Nuratch, T. Thanyaphoo, P. Boonpramuk, and **S. Boonto**, “Web-Based Cross-Platform Bootloader Framework for Embedded Systems Development and Rapid Product Prototyping,” In Proccedings of the 2025 SICE Festival with Annual Conference, Chiang Mai, Thailand, September 9-12, 2025 [bib]
@@ -110,7 +110,22 @@ Repetitive,” In Proceedings of Proceedings of The 2014 International Conferenc
 
 [IC2]	O. Supatti, **S. Boonto**, C. Prapanavarat, V. Moneyagul, $H_\infty$  Controller Design for Parallel DC-DC Buck Converters," In Proceedings of 17th Korea Automatic Control Conference, Jeonbuk, Korea, October, 16-19,pp. 1159–1163, 2002
 
-[IC1]	O. Supatti, **S. Boonto**, C. Prapanavarat, V. Moneyagul, "Design of an $H_\infty$  Robust Controlled for Multimodule Parallel DC-DC Buck Converters with Average Current Mode Control," In Proceedings of IEEE International Conference on Industrial Technology, Bangkok, Thailand, December,11-14,pp. 992–997, 2002 [pdf][bib]
+[IC1]	O. Supatti, **S. Boonto**, C. Prapanavarat, V. Moneyagul, "Design of an $H_\infty$  Robust Controlled for Multimodule Parallel DC-DC Buck Converters with Average Current Mode Control," In Proceedings of IEEE International Conference on Industrial Technology, Bangkok, Thailand, December,11-14,pp. 992–997, 2002 [pdf](http://ieeexplore.ieee.org/iel5/8466/26669/01189306.pdf?tp=&arnumber=1189306&isnumber=26669) [bib]
 
 ---
+<h3>Peer-Reviewed National Conference Papers</h3>
+
+[NC4]	N. Dernlugkam, **S. Boonto**, S. , P. Siriprala, “Identification and Control of a Half-scale Platform of Multi-Launcher Rocket System,” In Proceedings of the 36th Electrical Engineering Conference (EECON36), Kanchanaburi, Thailand, December 11-13, 2013. (in Thai)
+
+[NC3]	C. Techawatcharapaikul, **S. Boonto**, "PI/PID Design and Tuning via LMI with Time Domain Constraint,"  In Proceedings of the 41st Kasetsart University Annual Conference, Bangkok, Thailand, February, 3-7, 2003 (in Thai)
+
+[NC2]	S. Teratanajaru, **S. Boonto**, A. Chaisawadi, "On-line area-based computation method for first-order plus dead-time model system identification from step response," In Proceedings of the 17th Conference on Mechanical Engineering Network of Thailand, Prajeanburi, Thailand, October, 16-17, 2003
+
+[NC1]	P. Sritanauthaikarn, S. Boonto, A. Chaisawadi, "Linear Matrix Inequalities Based Controller Design for Crane System," In Proceedings of the 17th Conference on Mechanical Engineering Network of Thailand, Prajeanburi, Thailand, October, 16-17, 2003 (in Thai)
+
+---
+<h3>PhD Thesis</h3> 
+[T1]	**S. Boonto**, “Identification of Linear Parameter-Varying Input-Output Models,” PhD Thesis, Institute of Control Systems, Technische Universität Hamburg-Harburg, Dr. Hut Verlag, 2011.[pdf](http://inc.kmutt.ac.th/~sudchai.boo/people/sudchai/CV/dissertation_final.pdf) [bib]
+Supervisors: H. Werner
+
 
