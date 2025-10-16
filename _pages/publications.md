@@ -18,7 +18,8 @@ author_profile: true
 
 [IJ2]	L. Kenlin, **S. Boonto**, and T. Nuchkrau, “On-line Self Tuning of Contouring Control for High Accuracy Robot Manipulators under Various Operations,” International Journal of Control, Automation and Systems, Vol 18, No. 7, pp. 1818-1828, 2020.[pdf](http://em.rdcu.be/ls/click?upn=1VX9wGiUV7k-2FG8imEHteF7mqIYNNStLZ16WxuHLnkB8-3DeX5q_0cnpGOFl60IfK27wZPcjZazakNg-2FtYOLASBWdZVSGhl8YpIp0NoDHw7O6G797XS3oL803fjdru-2F-2FuUcRZzNs7EgvSOfWU-2B2JQJfPg4GivtA7pzgp9T-2B0hJghJkYhfhF3-2BYME9-2BbdgjYx-2B2CFX0Pwabvr-2BHUDFiWnppDfdfQJbJKBRYu7BPuDMnbFU8R13Cxr4KfMkb1FS2yYvo1-2FfPG7YAENkT0E0juvgZwLsSH4-2F8PJdlozTvh12UCfnojFlZ2Ky-2Bl3eoXL63Xk-2B90jENulQrjG8xDHQt0vGPb7YUO7W2QN-2Fk8hxEgoZriOC0m9PWjg) [bib] (WoS Q2)
 
-[IJ1]	R. Körlin, **S. Boonto**, H. Werner, and U. Starossek,“LMI-based gain scheduling for bridge flutter control using eccentric rotational actuators,” Optimal Control, Applications and Methods, Vol. 33, No. 4, pp. 488–500, 2012. [bib] (WoS Q2 )
+[IJ1] R. Körlin, **S. Boonto**, H. Werner, and U. Starossek,“LMI-based gain scheduling for bridge flutter control using eccentric rotational actuators,” Optimal Control, Applications and Methods, Vol. 33, No. 4, pp. 488–500, 2012. [bib] (WoS Q2 )
+
 ---
 
 
