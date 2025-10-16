@@ -6,19 +6,22 @@ author_profile: true
 ---
 
 ---
+<H3>International Journal Papers</H3>
 
-[Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
-<br> Sam Buchanan\*, **Druv Pai**\*, Peng Wang, Yi Ma
-<br> <i>Open-source textbook</i>
-<br> [project website](https://ma-lab-berkeley.github.io/deep-representation-learning-book/) - [GitHub page](https://github.com/Ma-Lab-Berkeley/deep-representation-learning-book)
+[IJ6]	Y. Atikankul, and **S. Boonto**, “An Extended Weighted Exponential Distribution and its Associated Regression Model,” Songklanakarin Journal of Science and Technology, Vol. 46, No. 1, pp. 45-52, 2024 [pdf](https://sjst.psu.ac.th/journal/46-1/7.pdf) [bib](Citescore Q3)
 
+[IJ5]	W. Kornmaneesang, S.-L. Chen, and **S. Boonto**, “Contouring Control of an Innovative Manufacturing System Based on Dual-Arm Robot,” IEEE Transactions on Automation Science and Engineering , Vol 19, No. 3, pp. 2042-2053, 2022[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9420298) [bib](WoS Q1)
 
+[IJ4]	Y. Atikankul, A. Thongteeraparp, W. Bodhisuwan, J. Qin, and **S. Boonto**, “The Zero-trancated Poisson-weighted Exponential Distribution with Applications,” The Lobachevskii Journal of Mathematics , Vol 42, No. 13, pp. 3088-3097, 2021 [pdf](https://link.springer.com/content/pdf/10.1134/S1995080222010048.pdf) [bib] (Citescore Q3)
+
+[IJ3]	**S. Boonto**, and S. Puychaison, “Mouse Type BallBot Identification and Control using a Convex-Concave Optimization,” Journal of Marine Science and Technology Taiwan , Vol. 28, No. 5, pp. 404–410, 2020 (WoS Q4) [pdf](https://jmstt.ntou.edu.tw/cgi/viewcontent.cgi?article=1049&context=journal) [bib]
+
+[IJ2]	L. Kenlin, **S. Boonto**, and T. Nuchkrau, “On-line Self Tuning of Contouring Control for High Accuracy Robot Manipulators under Various Operations,” International Journal of Control, Automation and Systems, Vol 18, No. 7, pp. 1818-1828, 2020.[pdf](http://em.rdcu.be/ls/click?upn=1VX9wGiUV7k-2FG8imEHteF7mqIYNNStLZ16WxuHLnkB8-3DeX5q_0cnpGOFl60IfK27wZPcjZazakNg-2FtYOLASBWdZVSGhl8YpIp0NoDHw7O6G797XS3oL803fjdru-2F-2FuUcRZzNs7EgvSOfWU-2B2JQJfPg4GivtA7pzgp9T-2B0hJghJkYhfhF3-2BYME9-2BbdgjYx-2B2CFX0Pwabvr-2BHUDFiWnppDfdfQJbJKBRYu7BPuDMnbFU8R13Cxr4KfMkb1FS2yYvo1-2FfPG7YAENkT0E0juvgZwLsSH4-2F8PJdlozTvh12UCfnojFlZ2Ky-2Bl3eoXL63Xk-2B90jENulQrjG8xDHQt0vGPb7YUO7W2QN-2Fk8hxEgoZriOC0m9PWjg) [bib] (WoS Q2)
+
+[IJ1]	R. Körlin, **S. Boonto**, H. Werner, and U. Starossek,“LMI-based gain scheduling for bridge flutter control using eccentric rotational actuators,” Optimal Control, Applications and Methods, Vol. 33, No. 4, pp. 488–500, 2012. [bib] (WoS Q2 )
 ---
 
-[On the Edge of Memorization in Diffusion Models](https://arxiv.org/abs/2508.17689)
-<br> Sam Buchanan\*, **Druv Pai**\*, Yi Ma, Valentin De Bortoli
-<br> <i>Accepted at NeurIPS 2025</i>
-<br> [code](https://github.com/DruvPai/diffusion_mem_gen)
+
 
 ---
 
