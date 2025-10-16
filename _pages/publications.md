@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-<H3>International Journal Papers</H3>
+<H3>International Journal Papers with Impact Factor</H3>
 
 [IJ6]	Y. Atikankul, and **S. Boonto**, “An Extended Weighted Exponential Distribution and its Associated Regression Model,” Songklanakarin Journal of Science and Technology, Vol. 46, No. 1, pp. 45-52, 2024 [pdf](https://sjst.psu.ac.th/journal/46-1/7.pdf) [bib](Citescore Q3)
 
@@ -21,10 +21,14 @@ author_profile: true
 [IJ1] R. Körlin, **S. Boonto**, H. Werner, and U. Starossek,“LMI-based gain scheduling for bridge flutter control using eccentric rotational actuators,” Optimal Control, Applications and Methods, Vol. 33, No. 4, pp. 488–500, 2012. [bib] (WoS Q2 )
 
 ---
+<h3>International Journal Papers with Peer Review</h3>
 
+[NJ2]	V. Sittiarttakorn, **S. Boonto**, “Temperature Control and Stabilization of an Industrial Oven Using Thermoelec-tric Devices as the Stabilize Actuator,” Journal of the Japan Society of Applied Electromagnetics and Mechanics, Vol. 27, No. 3, pp. 366-370, 2019. [bib]
 
+[NJ1]	V. Sittiarttakorn, **S. Boonto**, “Hybrid Engine Model Using a Stirling Engine and a DC Motor,” Journal of the Japan Society of Applied Electromagnetics and Mechanics, Vol. 23, No. 3, pp. 563-566, 2015. [bib]
 
 ---
+<h3>Peer-Reviewd International Conference Papers</h3>
 
 [Simplifying DINO via Coding Rate Regularization](https://arxiv.org/abs/2502.10385)
 <br> Ziyang Wu, Jingyuan Zhang, **Druv Pai**, XuDong Wang, Chandan Singh, Jianwei Yang, Jianfeng Gao, Yi Ma
