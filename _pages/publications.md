@@ -108,9 +108,9 @@ Repetitive,” In Proceedings of Proceedings of The 2014 International Conferenc
 
 [IC3]	J. Witt, **S. Boonto**, H. Werner, "Approximate Model Predictive Control of a 3-DOF Helicopter," In Proceedings of the 46th IEEE Conference on Decision and Control, New Orleans, Louisiana USA, December, 12-14, pp 4501–4506, 2007 [pdf][bib]
 
-[IC2]	O. Supatti, S. Boonto, C. Prapanavarat, V. Moneyagul, $H_\infty$  Controller Design for Parallel DC-DC Buck Converters," In Proceedings of 17th Korea Automatic Control Conference, Jeonbuk, Korea, October, 16-19,pp. 1159–1163, 2002
+[IC2]	O. Supatti, **S. Boonto**, C. Prapanavarat, V. Moneyagul, $H_\infty$  Controller Design for Parallel DC-DC Buck Converters," In Proceedings of 17th Korea Automatic Control Conference, Jeonbuk, Korea, October, 16-19,pp. 1159–1163, 2002
 
-[IC1]	O. Supatti, S. Boonto, C. Prapanavarat, V. Moneyagul, "Design of an $H_\infty$  Robust Controlled for Multimodule Parallel DC-DC Buck Converters with Average Current Mode Control," In Proceedings of IEEE International Conference on Industrial Technology, Bangkok, Thailand, December,11-14,pp. 992–997, 2002 [pdf][bib]
+[IC1]	O. Supatti, **S. Boonto**, C. Prapanavarat, V. Moneyagul, "Design of an $H_\infty$  Robust Controlled for Multimodule Parallel DC-DC Buck Converters with Average Current Mode Control," In Proceedings of IEEE International Conference on Industrial Technology, Bangkok, Thailand, December,11-14,pp. 992–997, 2002 [pdf][bib]
 
 ---
 
